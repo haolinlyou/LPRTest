@@ -1,0 +1,98 @@
+blue_1_1.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+blue_1_10.jpg [{'y': 357, 'x': 179}, {'y': 357, 'x': 307}, {'y': 394, 'x': 309}, {'y': 394, 'x': 181}] ”ÂBXB092 0
+blue_1_11.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+blue_1_12.jpg [{'y': 531, 'x': 1092}, {'y': 517, 'x': 1157}, {'y': 534, 'x': 1156}, {'y': 549, 'x': 1091}] ¡…RAN77A 0
+blue_1_13.jpg [{'y': 431, 'x': 327}, {'y': 356, 'x': 979}, {'y': 546, 'x': 1009}, {'y': 622, 'x': 358}] –¬ADX556 0
+blue_1_14.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+blue_1_15.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+blue_1_16.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+blue_1_17.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+blue_1_18.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+blue_1_2.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+blue_1_3.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+blue_1_4.jpg [{'y': 201, 'x': 418}, {'y': 179, 'x': 501}, {'y': 204, 'x': 506}, {'y': 226, 'x': 423}] ∏”BL9999 0
+blue_1_5.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+blue_1_6.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+blue_1_7.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+blue_1_8.jpg [{'y': 861, 'x': 1113}, {'y': 846, 'x': 1227}, {'y': 881, 'x': 1233}, {'y': 896, 'x': 1118}] ‘¡BH032H 0
+blue_1_8.jpg [{'y': 617, 'x': 1670}, {'y': 609, 'x': 1754}, {'y': 633, 'x': 1757}, {'y': 642, 'x': 1674}] ‘¡B798YP 0
+blue_1_9.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+ga_11_1.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+ga_11_10.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+ga_11_11.jpg [{'y': 210, 'x': 127}, {'y': 211, 'x': 248}, {'y': 244, 'x': 243}, {'y': 243, 'x': 122}] ∂ıZH396∏€ 2
+ga_11_2.jpg [{'y': 380, 'x': 314}, {'y': 341, 'x': 441}, {'y': 373, 'x': 445}, {'y': 413, 'x': 318}] ‘¡ZZ72A∞ƒ 2
+ga_11_3.jpg [{'y': 183, 'x': 111}, {'y': 194, 'x': 220}, {'y': 225, 'x': 222}, {'y': 214, 'x': 112}] ‘¡Z188C∏€ 2
+ga_11_4.jpg [{'y': 22, 'x': 537}, {'y': 20, 'x': 571}, {'y': 37, 'x': 571}, {'y': 39, 'x': 537}] ª¶TTL5H1 3
+ga_11_4.jpg [{'y': 35, 'x': 480}, {'y': 32, 'x': 518}, {'y': 47, 'x': 517}, {'y': 50, 'x': 480}] ¥®H13N11 1
+ga_11_5.jpg [{'y': 236, 'x': 80}, {'y': 268, 'x': 209}, {'y': 301, 'x': 207}, {'y': 269, 'x': 77}] ‘¡ZJ361∏€ 2
+ga_11_6.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+ga_11_7.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+ga_11_9.jpg [{'y': 101, 'x': 189}, {'y': 102, 'x': 255}, {'y': 119, 'x': 253}, {'y': 118, 'x': 188}] ¥®P87788 3
+green_1_1.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+green_1_10.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+green_1_11.jpg [{'y': 999, 'x': 879}, {'y': 981, 'x': 1007}, {'y': 1019, 'x': 1007}, {'y': 1037, 'x': 880}] …¬AF05002 5
+green_1_11.jpg [{'y': 1874, 'x': 2}, {'y': 1788, 'x': 406}, {'y': 1875, 'x': 434}, {'y': 1960, 'x': 30}] ºΩD0991A 3
+green_1_12.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+green_1_13.jpg [{'y': 332, 'x': 296}, {'y': 348, 'x': 374}, {'y': 377, 'x': 369}, {'y': 360, 'x': 291}] À’EF00139 5
+green_1_15.jpg [{'y': 1166, 'x': 368}, {'y': 1160, 'x': 577}, {'y': 1258, 'x': 565}, {'y': 1264, 'x': 356}] ∏ AD21111 5
+green_1_2.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+green_1_4.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+green_1_5.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+green_1_6.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+jx_12_1.jpg [{'y': 148, 'x': 84}, {'y': 106, 'x': 266}, {'y': 153, 'x': 264}, {'y': 195, 'x': 82}] πE0607π“ 1
+jx_12_1.png "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+jx_12_10.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+jx_12_11.jpg [{'y': 244, 'x': 131}, {'y': 249, 'x': 223}, {'y': 276, 'x': 222}, {'y': 271, 'x': 130}] ∂ıE0682π“ 1
+jx_12_12.jpg [{'y': 155, 'x': 73}, {'y': 134, 'x': 212}, {'y': 175, 'x': 224}, {'y': 195, 'x': 85}] ÕÓN1111π“ 1
+jx_12_2.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+jx_12_3.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+jx_12_4.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+jx_12_5.jpg [{'y': 374, 'x': 202}, {'y': 382, 'x': 304}, {'y': 418, 'x': 303}, {'y': 410, 'x': 201}] ‘¡B6723π“ 1
+jx_12_6.jpg [{'y': 130, 'x': 298}, {'y': 128, 'x': 399}, {'y': 159, 'x': 406}, {'y': 161, 'x': 305}] ’„C8888π“ 1
+jx_12_7.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+jx_12_8.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+jx_12_9.jpg [{'y': 269, 'x': 407}, {'y': 270, 'x': 482}, {'y': 294, 'x': 483}, {'y': 293, 'x': 407}] ‘¡B2471π“ 1
+jx_12_9.jpg [{'y': 253, 'x': 76}, {'y': 253, 'x': 146}, {'y': 272, 'x': 146}, {'y': 273, 'x': 76}] ‘¡B2471π“ 1
+pollice_11_1.jpg [{'y': 1208, 'x': 552}, {'y': 1192, 'x': 699}, {'y': 1230, 'x': 699}, {'y': 1247, 'x': 552}] …¬AD90589 5
+pollice_11_10.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+pollice_11_11.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+pollice_11_2.jpg [{'y': 409, 'x': 381}, {'y': 401, 'x': 645}, {'y': 463, 'x': 641}, {'y': 471, 'x': 377}] ∂ıUJJ008 3
+pollice_11_3.jpg [{'y': 366, 'x': 329}, {'y': 369, 'x': 455}, {'y': 404, 'x': 457}, {'y': 401, 'x': 331}] ºΩBB000æØ 3
+pollice_11_4.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+pollice_11_5.jpg [{'y': 198, 'x': 109}, {'y': 203, 'x': 251}, {'y': 238, 'x': 247}, {'y': 233, 'x': 105}] æ©A7726æØ 3
+pollice_11_6.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+pollice_11_7.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+pollice_11_9.jpg [{'y': 186, 'x': 43}, {'y': 175, 'x': 108}, {'y': 194, 'x': 107}, {'y': 205, 'x': 42}] √…BD113æØ 3
+sedan_1123.jpg [{'y': 870, 'x': 750}, {'y': 862, 'x': 903}, {'y': 904, 'x': 908}, {'y': 912, 'x': 755}] …¬AD33227 5
+sedan_1255.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+sedan_1338.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+sedan_1793.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+sedan_1954.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+slg_1_1.jpg [{'y': 197, 'x': 146}, {'y': 201, 'x': 326}, {'y': 244, 'x': 329}, {'y': 241, 'x': 150}] ¬≥B0112¡Ï 2
+slg_1_10.jpg [{'y': 179, 'x': 135}, {'y': 200, 'x': 259}, {'y': 239, 'x': 253}, {'y': 218, 'x': 129}]  π153001 2
+slg_1_11.jpg [{'y': 321, 'x': 321}, {'y': 328, 'x': 519}, {'y': 380, 'x': 522}, {'y': 373, 'x': 324}] ª¶A1631¡Ï 2
+slg_1_2.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+slg_1_3.jpg [{'y': 183, 'x': 135}, {'y': 169, 'x': 256}, {'y': 204, 'x': 256}, {'y': 218, 'x': 135}] ¬≥B0002¡Ï 2
+slg_1_4.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+slg_1_5.jpg [{'y': 291, 'x': 221}, {'y': 294, 'x': 345}, {'y': 328, 'x': 342}, {'y': 325, 'x': 219}]  π230028 2
+slg_1_6.jpg [{'y': 240, 'x': 127}, {'y': 176, 'x': 289}, {'y': 213, 'x': 301}, {'y': 277, 'x': 140}]  π159053 2
+slg_1_7.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+slg_1_8.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+slg_1_9.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+yellow_10_1.jpeg [{'y': 643, 'x': 396}, {'y': 664, 'x': 507}, {'y': 701, 'x': 507}, {'y': 680, 'x': 396}] «ÌA29282 1
+yellow_10_1.jpg [{'y': 175, 'x': 185}, {'y': 160, 'x': 253}, {'y': 184, 'x': 254}, {'y': 199, 'x': 186}] ”ÂBU3616 1
+yellow_10_1.jpg [{'y': 33, 'x': 356}, {'y': 31, 'x': 388}, {'y': 40, 'x': 389}, {'y': 42, 'x': 357}] πÛJD41D1L 5
+yellow_10_1.png [{'y': 326, 'x': 168}, {'y': 332, 'x': 271}, {'y': 362, 'x': 269}, {'y': 356, 'x': 166}] ºΩEL9262 1
+yellow_10_10.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+yellow_10_2.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+yellow_10_2.png [{'y': 345, 'x': 62}, {'y': 317, 'x': 149}, {'y': 346, 'x': 157}, {'y': 375, 'x': 70}] …¬AL7635 1
+yellow_10_3.jpg [{'y': 669, 'x': 342}, {'y': 658, 'x': 502}, {'y': 705, 'x': 506}, {'y': 716, 'x': 347}] ºΩER9786 1
+yellow_10_3.png [{'y': 490, 'x': 287}, {'y': 491, 'x': 363}, {'y': 515, 'x': 359}, {'y': 513, 'x': 283}] …¬AK7193 1
+yellow_10_4.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+yellow_10_5.jpg [{'y': 449, 'x': 339}, {'y': 421, 'x': 606}, {'y': 504, 'x': 607}, {'y': 532, 'x': 341}] ∏”IP44B6 1
+yellow_10_6.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+yellow_10_7.jpg [{'y': 359, 'x': 265}, {'y': 360, 'x': 366}, {'y': 391, 'x': 365}, {'y': 390, 'x': 263}] ºΩA4453π“ 1
+yellow_10_8.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+yellow_10_9.jpg [{'y': 256, 'x': 68}, {'y': 262, 'x': 112}, {'y': 277, 'x': 110}, {'y': 272, 'x': 67}] …¬AQ2963 1
+yj_1_2.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
+yj_1_3.jpg "error_message":"CONCURRENCY_LIMIT_EXCEEDED"
